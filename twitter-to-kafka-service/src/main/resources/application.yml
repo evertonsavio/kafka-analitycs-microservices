@@ -1,0 +1,10 @@
+server:
+  port: 8080
+twitter-to-kafka-service:
+    twitter-keywords:
+      - Java
+      - Microservices
+      - Spring
+      - Kafka
+      - ElasticSearch
+    welcome-message: Welcome to Microservices with Kafka and Twitter!

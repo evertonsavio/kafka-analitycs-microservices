@@ -1,0 +1,15 @@
+2021-04-17 16:24:41 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 16543 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-17 16:24:41 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-17 16:24:43 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.713 seconds (JVM running for 4.632)
+2021-04-17 16:24:43 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - App starts
+2021-04-17 16:24:43 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-17 16:25:21 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 16623 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-17 16:25:21 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-17 16:25:22 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.038 seconds (JVM running for 3.6)
+2021-04-17 16:25:22 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - App starts
+2021-04-17 16:25:22 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-17 16:27:18 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 16721 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-17 16:27:18 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-17 16:27:19 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 2.562 seconds (JVM running for 4.326)
+2021-04-17 16:27:19 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-17 16:27:19 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
