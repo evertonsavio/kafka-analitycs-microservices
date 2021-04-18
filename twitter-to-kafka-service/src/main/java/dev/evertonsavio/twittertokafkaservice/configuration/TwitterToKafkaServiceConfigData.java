@@ -1,4 +1,4 @@
-package dev.evertonsavio.twittertokafkaservice.config;
+package dev.evertonsavio.twittertokafkaservice.configuration;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

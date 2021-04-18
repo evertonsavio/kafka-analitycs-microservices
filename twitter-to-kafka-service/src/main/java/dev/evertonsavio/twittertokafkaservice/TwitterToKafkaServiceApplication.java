@@ -1,6 +1,7 @@
 package dev.evertonsavio.twittertokafkaservice;
 
-import dev.evertonsavio.twittertokafkaservice.config.TwitterToKafkaServiceConfigData;
+import dev.evertonsavio.twittertokafkaservice.configuration.TwitterToKafkaServiceConfigData;
+import dev.evertonsavio.twittertokafkaservice.runner.StreamRunner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
@@ -16,8 +17,11 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
 
     public TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData;
 
-    public TwitterToKafkaServiceApplication(TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData) {
+    private final StreamRunner streamRunner;
+
+    public TwitterToKafkaServiceApplication(TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData, StreamRunner streamRunner) {
         this.twitterToKafkaServiceConfigData = twitterToKafkaServiceConfigData;
+        this.streamRunner = streamRunner;
     }
 
     public static void main(String[] args) {
@@ -28,5 +32,6 @@ public class TwitterToKafkaServiceApplication implements CommandLineRunner {
     public void run(String... args) throws Exception {
         LOG.info(twitterToKafkaServiceConfigData.getWelcomeMessage());
         LOG.info(Arrays.toString(twitterToKafkaServiceConfigData.getTwitterKeywords().toArray(new String[]{})));
+        streamRunner.start();
     }
 }
