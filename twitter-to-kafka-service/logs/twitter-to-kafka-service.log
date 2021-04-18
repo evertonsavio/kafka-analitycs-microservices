@@ -13,3 +13,643 @@
 2021-04-18 11:35:29 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem elit Lorem adipiscing elit Spring consectetuer consectetuer dolor
 2021-04-18 11:35:39 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor consectetuer consectetuer ipsum ipsum elit consectetuer Microservices amet consectetuer amet sit consectetuer adipiscing
 2021-04-18 11:35:49 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem sit dolor adipiscing sit consectetuer ipsum Kafka ipsum sit sit dolor dolor dolor
+2021-04-18 12:21:34 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 30313 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 12:21:34 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 12:21:36 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.794 seconds (JVM running for 2.84)
+2021-04-18 12:21:36 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 12:21:36 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 12:21:36 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Started twitter stream for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 12:21:36 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2021-04-18 12:21:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Connection established.
+2021-04-18 12:21:37 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Receiving status stream.
+2021-04-18 12:21:37 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Annie48012316: It's spring in the air, 
+(and on the ground😁)
+In South Sweden 
+March 21th 2021 https://t.co/5pHE295ZEP
+2021-04-18 12:21:37 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Moss_2kriss: Perfect for carrying moi moi on the go
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/4LprDwTInH
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Yoshiki_n_626: めちゃおしゃ動画上がってる！
+今回は、普段もTSのアイテムを身に付けてくれている斉藤壮馬くんにも協力していただきました。男性モデルはもう1人お願いしてますので、そちらの方もお楽しみに。
+女性モデルはお馴染み、五十嵐裕美さんと髙橋ミナミさん🤗…
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @jennmorson: I am offering to purchase a copy of Leaving Isn’t the Hardest Thing by @laurenthehough for one reader who can’t spring for…
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #CandleLightStrike was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup https://t.co/in1Yc5IVoB
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/8lV2aAWe6A
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @laminmaungmaun8: According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or…
+2021-04-18 12:21:38 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @NewsPamphlet: People print their daily newspaper & share it to the people by themselves. The Voice Of Spring always be in the hand of p…
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Doorways of Berlin (in spring). https://t.co/sSYQ3j76vT
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @lolesports: Congratulations to @GAM_eSportsVN on winning the #VCS Spring Finals and qualifying for #MSI2021! https://t.co/1UxzOpQWub
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeninglnMyanmar 
+#Apr18Coup
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text "Longgyi Strike” campaign is for women empowerment and in honour of Myanmar women who participate in this spring revolution bravely. With even more empowering women, our future will be brighter.
+NUG ASSEMBLE
+#Apr18Coup
+#WhatsHappeningInMyanmar https://t.co/dA8tBMFdj6
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup 
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Thae1998: According to Bago news page, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they…
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Don McLean✨Vincent (Starry Starry Night) https://t.co/EIZ1WokiZN via @YouTube
+"Lentetuin" or "Spring Garden" by Vincent van Gogh https://t.co/GU3pwnrqMU
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHapppeningInMyanmar #Apr18Coup
+2021-04-18 12:21:39 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @keithbaldrey: This is waaay better than last spring and summer. Lots and lots of social distancing and fairly small groups (many of who…
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @TakeharuYoshida: SPRING RC FESTAに行ってきましたぁ😄
+運営の皆様、一緒に遊んでくれた皆様、お話ししてくれた皆様、本当にありがとうございました✨
+すごーく楽しかったです！ https://t.co/yTj2F5XPjq
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @JakaAdy: Bungkus nasi jamblang. https://t.co/03qtP0pOYP
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @TheSun: Boat tour in Japan captures spring cherry blossoms in full bloom 😍 https://t.co/ZThVXhVSN7
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @__ot7z: Bago: All the fallen heroes in Spring Revolution are cremated in Martyrs' Mausoleum at Sin Phyu Kwin cemetery. Today Junta Terr…
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @SH0TZE: CLEAR SPRING https://t.co/AcbYpP3nOq
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#WeSupportNUG
+#Apr18Coup
+2021-04-18 12:21:40 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text @lordblakeposey @bitchiwas999 Top one broke, pressure came from the guy hitting the switch causing the car to go up, shot the whole tire down. Once the top joint breaks, it’s not connected to anything, spring shoots out. They modify the arms on these cars and sometimes they’re different cars in general
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar #Apr18Coup
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 40%
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @FY_Ten27: According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else th…
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Army_Connect: This gugak version of Spring Day of @bts_twt by Song Sohee conveys the gutwrenching longing for our loved ones.
+
+It feels…
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text In front of ZoJoJi Temple, Japanese monks and Burmese monks gathered to pray for fallen heroes during spring revolution in Myanmar along with locals holding candlelights this evening.
+NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar https://t.co/dL7m57LDxw
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @vangoghmuseum: 📝 ‘I always think that what we need is sunshine and fine weather and blue air as the most dependable remedy’. Van Gogh t…
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #Apr18Coup #Bago SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery Demands removal to another place Removal of words “Spring Revolutionary Hero”. Tombs cannot be contiguous #WhatsHappeningInMyanmar #MyanmarMilitaryTerrorists https://t.co/CpDvy1ogV9
+2021-04-18 12:21:41 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @heyseinn: Bago: All the fallen heroes in Spring Revolution are cremated in Martyrs' Mausoleum at Sin Phyu Kwin cemetery. Today Junta Te…
+2021-04-18 12:21:42 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Men dead after fiery Tesla crash in Spring (north Houston), officials say
+Link: https://t.co/wHOngv0HkM
+Comments: https://t.co/v0Re23V47h
+2021-04-18 12:21:42 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/rw8Qatoq3K
+2021-04-18 12:21:42 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution. NUG ASSEMBLE #WhatsHappeningInMyanmar #Apr18Coup #ReleasetheDetainees https://t.co/irt0Dx7Fl1
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 6/13 
+28047 Scott Road, Murrieta
+2955 Alpine Blvd, Alpine
+43543 20th Street West, Lancaster
+450 E. Cypress Ave., Redlands
+543 Sweetwater Rd, Spring Valley
+655 14th St., San Diego
+8880 Valley View Street, Buena Park
+8920 Fletcher Parkway, La Mesa
+9831 Campo Road, Spring Valley
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light
+Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup 
+#ReleasetheDetainees https://t.co/TFYlY3PF54
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Ornamental cherry blossom on another walk, perfect temperature for a walk #Sunny #Spring #Sunday #Surrey https://t.co/h9e3I5yKni
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Where to see cherry blossoms, fields of tulips and other spring flowers in Upstate New York https://t.co/p8jyLIeAn8
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @01001001ghis: Because the best performance improvement is the #transition from the "#nonworking state" to the "#working state"...👨🏾‍💻
+—…
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light
+Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup 
+#ReleasetheDetainees https://t.co/w18Avg0uEh
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Spratt_RL: As our contract with @DeusInferosESC expires we're looking for an ORG for the Spring major.
+Hit us up on Twitter or Discord.…
+2021-04-18 12:21:43 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @elysian_21: Spring day Jimin 💗🌸 #JIMIN #ConnectArtmy https://t.co/y5I15nbx2w
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Arcares_Ferro: There’s mud on your paws
+And the ticks often bite
+There is nowhere for you to hide
+The spring’s sky is shining
+
+I‘m walk…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 8/13 
+1608 Broadway St, El Cajon
+20261 Hwy 18, Apple Valley
+22451 Antonio Parkway, Rancho S Margarita
+23850 W Copper Hill Rd, Valencia
+520 West Tefft Street, Nipomo
+5949 E. Spring St, Long Beach
+6240 Foothill Blvd, Tujunga
+74590 Highway 111, Palm Desert
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @PhyuLeiLeiWai1: Bago: All the fallen heroes in Spring Revolution are cremated in Martyrs' Mausoleum at Sin Phyu Kwin cemetery. Today Ju…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Removal of words “Spring Revolutionary Hero”. Tombs cannot be contiguous 
+
+#WhatsHappeningInMyanmar #Myanmar
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @doctor_oxford: While we risked our lives last spring on NHS Covid wards, David Cameron & Greensill were trying to get rich quick off th…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @MyintMyintCho17: Bago: All the fallen heroes in Spring Revolution are cremated in Martyrs' Mausoleum at Sin Phyu Kwin cemetery. Today J…
+2021-04-18 12:21:44 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:45 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text In front of ZoJoJi Temple, Japanese monks and Burmese monks gathered to pray for fallen heroes during spring revolution in Myanmar along with locals holding candlelights this evening.
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar https://t.co/i3h5zhbV8k
+2021-04-18 12:21:45 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Ovviamente mica potevano evitare spring day
+2021-04-18 12:21:45 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:45 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/zKbLzwifio
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar 
+#Apr18Coup 
+#WeNeedR2PInMyanmarImmediately 
+#WeSupportNUG 
+#ReleaseTheDetainees
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text https://t.co/XRPRWvkM12
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG 
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @goexopink: 🦋 FANKIT XIUMIN 2021 - Spring after Winter #goexopinkceg 
+❄️ Informações & Reservas: https://t.co/qw8ZJOr6CL
+🗓️ Prazo de pag…
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Moss_2kriss: Perfect for carrying moi moi on the go
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @vote4kths: Congratulations to Taehyung for being voted as the idol one would like to view spring flowers with 🌸🌸🌸🌸
+
+He received 66.1% v…
+2021-04-18 12:21:46 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @APlNKSCEO: On 4월19일, spring said 굿모닝 베이비 @Apink_2011 .We Promise U to conquer The Wave together. Cause You're My Star & Always be our M…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE #Apr18Coup #WeSupportNUG #WhatsHappeningInMyanmar https://t.co/S1duSvWmEG
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @MoeEiEiZin2: According to Bago news page, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else t…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @UnrulyOutsider: Burna Boy live performance of the song “Pree Me” at The Fillmore Silver Spring, MD (9-15-2019)
+
+😎🧢 https://t.co/dleHmFS…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Even cemetery for dead heroes who were murdered by them during anti-coup spring revolution?
+#WhatsHappeningInMyanmar
+#Apr18Coup
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @phoebe_1004: Tw // light
+Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolutio…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:47 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @SarkTwit: The serious business of swimming, running & cycling around @Sark_Island in the Spring sunshine ☀️
+
+#sarkisland #triathlon #de…
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text They thought they could jack Lord of the Rings and we wouldn't notice. https://t.co/BgVH1EuGBb
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text @mikecommito We were  driving back from Daytona Fl spring break and were driving by DC when this goal was scored.  My isles friends went nuts.  Me less so ...
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @GuideCivilian: Japanese monks and Burmese monks   in Japan offered prayers for the heroes who lost their lives in Spring Revolution. Lo…
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 30
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Vielen Dank ! Deutschland 
+
+12 cities from Germany, hold prayers for the fallen heros of spring revolution on the first day of Myanmar New Year. Thank you #Germany. 
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup 
+#ReleaseTheDetainees https://t.co/hSssFmO6OY
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution. NUG ASSEMBLE #WhatsHappeningInMyanmar #Apr18Coup #ReleasetheDetainees https://t.co/1EknuCVrJh
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @DrAmirKhanGP: Morning!
+
+This is what I look forward to most about Spring, the wonderful next generation of wildlife 
+
+These ducklings a…
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @callmeduckduck4: spring🌸 https://t.co/TBjSWTZKjW
+2021-04-18 12:21:48 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text I ragged on Jay Bruce a bit this Spring, but he’s had a very nice MLB career and wish him well in retirement
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @cmtspiderz: In front of ZoJoJi Temple, Japanese monks and Burmese monks gathered to pray for fallen heroes during spring revolution in…
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #CandleLightStrike was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup https://t.co/sz3Dl4qJoP
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @aeludas: these were for an ad but it never pushed through, so I think at least I can post it now.. (1/2)
+
+Our 10th Spring with @Apink_2…
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @FashionweekNYC: Take a look at the Ziad Nakad Spring 2021 Couture Collection 😍😍😍 https://t.co/gyRlTaAYuq
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 2. RUBY THROATED HUMMINGBIRD
+
+Only the second hummer I’ve seen this spring, this creature sat in the sun against the blue sky and considered her surroundings for ten solid minutes https://t.co/OgcGJPkPlC
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 好きすぎる
+
+2021 SPRING  COLLECTION OPENING  VIDEOS https://t.co/QHBkFLozhh @YouTubeより
+2021-04-18 12:21:49 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text 20%
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Hold2LLC: US CoV2 Update: 4/18/21
+
+Good numbers as the expected Spring stimulus starts to wane like we hoped.
+
+Next, we expect an April…
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Whitmer blames Michigan coronavirus numbers on travelers after top staffer vacationed in FL https://t.co/9D71KVAKoy #FoxNews
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#WhatsHappeningInMyanmar #Apr18Coup
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+#MilkTeaAlliance
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution. NUG ASSEMBLE #WhatsHappeningInMyanmar #Apr18Coup #ReleasetheDetainees https://t.co/PZB5cTld7P
+2021-04-18 12:21:50 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @pno_piano: According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else t…
+2021-04-18 12:21:51 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar 
+#Apr18Coup 
+#WeSupportNUG
+2021-04-18 12:21:51 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:51 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @lockedinlust: Will YOU be one of the 15 winners for this giveaway?
+
+Enter here! https://t.co/EZnWjPaCM9
+
+-The Vice™-
+Inescapable chasti…
+2021-04-18 12:21:51 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @_gastt: Leaf Bags from Jean Paul Gaultier Spring 2010 Haute Couture https://t.co/6u29RZ3Ujd
+2021-04-18 12:21:52 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text @SZarifi @ICJ_Asia @AbbottKingsley @ICJ_org According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/A5nOUZj9yz
+2021-04-18 12:21:52 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Yveslynepm: @jaemoa_ อิดอก มองไกลๆกุนึกว่าcoding ภาษาJAVAไรงี้55555
+2021-04-18 12:21:52 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/5A6nQv8Wd0
+2021-04-18 12:21:52 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @tetzkdlin1994: According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or el…
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Thank u for showing us that we can safely host large sporting events! @CSUPFootball season tickets on sale now!
+ https://t.co/nVSrpkLbBe
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #CandleLightStrike 
+#WhatsHappeningInMyanmar 
+#WeSupportNUG
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #NewProfilePic You sowed the beauty of Spring deep down in my heart 💐🍀🌺🌻
+
+ربيعي في كل المواسم 🌷🌼🌞🍀 #SpringTime #positivity #best_escape #nature #shouf #cedars #biosphere #الربيع #sundayvibes https://t.co/uVq0seo67g
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ENTER TO WIN    Effy Jewelry2021 Spring Sweepstakes Giveaway https://t.co/Axh9mZVt4k *
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @wetchop: Spring is always extra fun with your anthro partner https://t.co/2m79jgbr6L
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text I think this is perfect spring album 🌻
+spring that brings joy 🥰
+I'm really excited 💙 https://t.co/OUmOn25CcY
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text @SUGAXCTOR @BTS_twt Spring Day.           I vote for @BTS_twt #Dynamite for #BestMusicVideo at the #iHeartAwards
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#Apr18Coup
+#WeSupportNUG
+#WhatsHappeningInMyanmar
+2021-04-18 12:21:53 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Dadddy_Ryan: Tw // light Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolutio…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, 
+military terrorists ordered to remove all the spring revolution heroes’ crematorium 
+
+or else they will detain the cemetery guard and volunteers.
+
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/u5MEuYUgzk
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text @Viixen_VTA Its all about the Vibes all spring and summer long. I got the perfect one for you. Stream “Vibe (Baby)” by DunoUKnow on all streaming platforms.TikTok Challenge with $500 Cash Prize going on right now. Let me see what you got! https://t.co/41xvxQVSK7
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @StephenGardens: Brunnera 'Jack Frost' enjoying this beautiful sunshine. I wonder if we've seen the last of the other Jack Frost this sp…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @charterarts: Lehigh Valley Charter High School for the Arts presents an original spring musical, Earthland, that will lift spirits as a…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @SUBRSGA: The Moment You Have All Been Waiting For❕❕Southern Daze: Spring Fest 2021 is here!! April 19-23 The Week Lineup Is Locked and…
+2021-04-18 12:21:54 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Spring Rattan Patio Furniture Set Giveaway https://t.co/SboUMIKNn2
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light
+Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup 
+#ReleasetheDetainees https://t.co/L9FmI4jZUN
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @ReliCharm: Tw // light Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.…
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @Myanmar_Now_Eng: People from Myanmar living in the Netherlands held a rally in Amsterdam on Saturday in protest of the military dictato…
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @gregotto: “Authorities said they used 32,000 gallons of water over four hours to extinguish the flames because the vehicle’s batteries…
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text NUG ASSEMBLE
+#WhatsHappeningInMyanmar
+#WeSupportNUG
+2021-04-18 12:21:55 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text According to Bago local media, military terrorists ordered to remove all the spring revolution heroes’ crematorium or else they will detain the cemetery guard and volunteers.
+#WhatsHappeningInMyanmar
+#Apr18Coup https://t.co/Lv5parMCPb
+2021-04-18 12:21:56 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @shafiur: #Apr18Coup #Bago
+
+SAC Junta ORDERS DESTRUCTION OF Spring Revolutionary Heroes’ Cemetery
+
+Demands removal to another place
+Remo…
+2021-04-18 12:21:56 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text #WhatsHappeningInMyanmar 
+#Apr18Coup
+2021-04-18 12:21:56 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text RT @socfuture: Invitation to the Social Care Future On-Line Spring Gathering from @AnnaSeverwright https://t.co/wNr5LesM8x via @YouTube
+2021-04-18 12:21:56 [Twitter4J Async Dispatcher[0]] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Tw // light
+Candlelight vigil was held at Tamakhan village, Hpakant pray for all the fallen heroes of the spring revolution.
+NUG ASSEMBLE 
+#WhatsHappeningInMyanmar 
+#Apr18Coup 
+#ReleasetheDetainees https://t.co/MxDyarUfRy
+2021-04-18 12:21:56 [SpringContextShutdownHook] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Closing Twitter Stream
+2021-04-18 13:22:02 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32148 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:22:02 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:22:03 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:22:03 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:22:03 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:23:07 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32285 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:23:07 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:23:08 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:23:08 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:23:08 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:24:08 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32361 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:24:08 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:24:08 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:24:08 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:24:09 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:25:30 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32455 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:25:30 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:25:31 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:25:31 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:25:31 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:25:49 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32520 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:25:49 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:25:49 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:25:49 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:25:50 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:27:31 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 32623 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:27:31 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:27:32 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:27:32 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:27:32 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:36:21 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 1165 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:36:21 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:36:22 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:36:22 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:36:22 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:38:10 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 1276 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:38:10 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:38:11 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:38:11 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:38:11 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:39:14 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 1361 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:39:14 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:39:14 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'mockKafkaStreamRunner' defined in file [/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes/dev/evertonsavio/twittertokafkaservice/runner/implementation/MockKafkaStreamRunner.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:39:15 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:39:15 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.runner.implementation.MockKafkaStreamRunner required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:40:53 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 1472 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:40:53 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:40:54 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 13:40:54 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 13:40:54 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 13:43:31 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 1699 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 13:43:31 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 13:43:32 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.744 seconds (JVM running for 2.805)
+2021-04-18 13:43:32 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 13:43:32 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 13:43:32 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 13:43:33 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem Lorem dolor adipiscing consectetuer elit consectetuer dolor Microservices consectetuer amet elit amet adipiscing adipiscing
+2021-04-18 13:43:43 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor elit sit dolor Microservices Lorem Lorem
+2021-04-18 13:43:53 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor consectetuer Lorem dolor consectetuer amet Kafka sit sit sit sit

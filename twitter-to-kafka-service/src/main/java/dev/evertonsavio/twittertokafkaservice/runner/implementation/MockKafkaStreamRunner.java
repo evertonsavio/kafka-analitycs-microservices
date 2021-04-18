@@ -29,6 +29,11 @@ public class MockKafkaStreamRunner implements StreamRunner {
     private final TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData;
     private final TwitterToKafkaListener twitterToKafkaListener;
 
+    public MockKafkaStreamRunner(TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData, TwitterToKafkaListener twitterToKafkaListener) {
+        this.twitterToKafkaServiceConfigData = twitterToKafkaServiceConfigData;
+        this.twitterToKafkaListener = twitterToKafkaListener;
+    }
+
     /*MOCK*/
     public static final Random RANDOM = new Random();
     private static final String[] WORDS = new String[]{
@@ -51,11 +56,6 @@ public class MockKafkaStreamRunner implements StreamRunner {
     private static final String TWITTER_STATUS_DATE_FORMAT = "EEE MMM dd HH:mm:ss zzz yyyy";
 
     /*MOCK*/
-
-    public MockKafkaStreamRunner(TwitterToKafkaServiceConfigData twitterToKafkaServiceConfigData, TwitterToKafkaListener twitterToKafkaListener) {
-        this.twitterToKafkaServiceConfigData = twitterToKafkaServiceConfigData;
-        this.twitterToKafkaListener = twitterToKafkaListener;
-    }
 
     @Override
     public void start() throws TwitterException {
