@@ -653,3 +653,244 @@ Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaS
 2021-04-18 13:43:33 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem Lorem dolor adipiscing consectetuer elit consectetuer dolor Microservices consectetuer amet elit amet adipiscing adipiscing
 2021-04-18 13:43:43 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor elit sit dolor Microservices Lorem Lorem
 2021-04-18 13:43:53 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor consectetuer Lorem dolor consectetuer amet Kafka sit sit sit sit
+2021-04-18 20:53:18 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 17811 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 20:53:18 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 20:53:19 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 20:53:19 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 20:53:19 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 20:54:27 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 18034 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 20:54:27 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 20:54:28 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 20:54:28 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 20:54:28 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 20:55:39 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 18141 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 20:55:39 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 20:55:40 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 20:55:40 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 20:55:40 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:01:38 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 18985 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:01:38 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:01:39 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:01:39 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:01:39 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:02:28 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 19061 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:02:28 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:02:29 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:02:29 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:02:29 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:03:46 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 19153 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:03:46 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:03:47 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:03:47 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:03:47 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:04:11 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 19215 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:04:11 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:04:12 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:04:12 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:04:12 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:05:55 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 19317 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:05:55 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:05:56 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.734 seconds (JVM running for 2.672)
+2021-04-18 21:05:56 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 21:05:56 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:05:56 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:05:56 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum dolor elit sit consectetuer elit elit elit Java elit elit consectetuer elit adipiscing ipsum
+2021-04-18 21:06:06 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text amet Lorem ipsum dolor consectetuer Lorem Java Lorem sit consectetuer consectetuer Lorem
+2021-04-18 21:06:16 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text adipiscing ipsum sit amet Spring Lorem sit
+2021-04-18 21:06:26 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text adipiscing ipsum dolor sit amet ipsum sit elit Java consectetuer Lorem ipsum Lorem adipiscing consectetuer consectetuer
+2021-04-18 21:06:36 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit dolor dolor consectetuer ipsum Spring elit consectetuer dolor consectetuer
+2021-04-18 21:06:46 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text sit ipsum consectetuer dolor Lorem Java ipsum dolor consectetuer ipsum
+2021-04-18 21:06:56 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text amet ipsum amet amet consectetuer Spring amet adipiscing consectetuer amet
+2021-04-18 21:07:06 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum consectetuer adipiscing elit consectetuer Lorem adipiscing elit Kafka Lorem sit ipsum Lorem Lorem Lorem dolor
+2021-04-18 21:07:16 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem elit amet amet sit ipsum consectetuer Microservices adipiscing ipsum adipiscing adipiscing Lorem consectetuer
+2021-04-18 21:07:26 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum consectetuer dolor adipiscing elit Kafka elit Lorem dolor adipiscing
+2021-04-18 21:07:36 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit ipsum amet Microservices elit elit
+2021-04-18 21:07:46 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem dolor sit dolor elit consectetuer Microservices consectetuer amet adipiscing amet
+2021-04-18 21:07:56 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text amet adipiscing Lorem adipiscing Lorem Kafka consectetuer consectetuer dolor
+2021-04-18 21:08:06 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text sit Lorem amet Lorem Lorem Kafka dolor consectetuer amet Lorem
+2021-04-18 21:08:16 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text amet adipiscing Lorem sit dolor amet Kafka amet consectetuer adipiscing sit consectetuer
+2021-04-18 21:08:26 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum amet Lorem ipsum ElasticSearch elit consectetuer
+2021-04-18 21:08:36 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor Lorem consectetuer amet adipiscing Lorem Java adipiscing sit adipiscing elit
+2021-04-18 21:08:46 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit amet Lorem adipiscing consectetuer ipsum dolor ipsum Java consectetuer ipsum Lorem elit adipiscing adipiscing consectetuer
+2021-04-18 21:09:10 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 19429 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:09:10 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:09:11 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.747 seconds (JVM running for 2.675)
+2021-04-18 21:09:11 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 21:09:11 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:09:11 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:09:11 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit elit ipsum Spring adipiscing consectetuer
+2021-04-18 21:15:43 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 20100 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:15:43 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:15:44 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:15:44 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:15:45 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:16:24 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 20222 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:16:24 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:16:25 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.804 seconds (JVM running for 2.676)
+2021-04-18 21:16:25 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 21:16:25 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:16:25 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:16:25 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text dolor sit elit ElasticSearch Lorem adipiscing
+2021-04-18 21:16:35 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit consectetuer adipiscing adipiscing dolor ipsum consectetuer Spring Lorem dolor elit elit sit
+2021-04-18 21:16:45 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text sit sit Lorem elit dolor amet Kafka adipiscing consectetuer consectetuer Lorem
+2021-04-18 21:16:55 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum amet sit sit Lorem Kafka sit dolor consectetuer adipiscing
+2021-04-18 21:17:05 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text sit elit dolor consectetuer dolor elit consectetuer Java ipsum elit adipiscing dolor Lorem ipsum
+2021-04-18 21:18:22 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 20551 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:18:22 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:18:23 [main] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'twitterToKafkaServiceApplication': Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+2021-04-18 21:18:23 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-04-18 21:18:23 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in dev.evertonsavio.twittertokafkaservice.TwitterToKafkaServiceApplication required a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'dev.evertonsavio.appconfigdata.TwitterToKafkaServiceConfigData' in your configuration.
+
+2021-04-18 21:18:57 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on debian with PID 20730 (/home/havyx/Github/Microservices-Kafka/twitter-to-kafka-service/target/classes started by havyx in /home/havyx/Github/Microservices-Kafka)
+2021-04-18 21:18:57 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-18 21:18:58 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.831 seconds (JVM running for 2.669)
+2021-04-18 21:18:58 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - Welcome to Microservices with Kafka and Twitter!
+2021-04-18 21:18:58 [main] INFO  d.e.t.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:18:58 [main] INFO  d.e.t.r.i.TwitterKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Spring, Kafka, ElasticSearch]
+2021-04-18 21:18:58 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text elit amet consectetuer consectetuer ElasticSearch consectetuer elit Lorem
+2021-04-18 21:19:08 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text Lorem sit consectetuer ipsum sit Java Lorem dolor amet dolor
+2021-04-18 21:19:18 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text amet elit Lorem ipsum dolor Lorem adipiscing Lorem Spring ipsum elit ipsum dolor dolor Lorem
+2021-04-18 21:19:28 [pool-1-thread-1] INFO  d.e.t.l.TwitterToKafkaListener - Twitter status with text ipsum adipiscing adipiscing dolor amet dolor elit ElasticSearch adipiscing ipsum Lorem consectetuer Lorem
