@@ -54,7 +54,6 @@ public class KafkaAdmClient {
             throw new RuntimeException("Reached max number of retry for creating kafka topic(s)");
         }
         checkTopicsCreated();
-        checkSchemaRegistry();
     }
 
     public void checkTopicsCreated(){
